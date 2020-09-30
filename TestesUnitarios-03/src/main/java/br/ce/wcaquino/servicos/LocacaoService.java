@@ -11,7 +11,7 @@ import br.ce.wcaquino.entidades.Usuario;
 public class LocacaoService {
 	
 	public String vPublica;
-	private String vPrivada;
+	//private String vPrivada;
 	protected String vProtegida;
 	String vDefault;
 
