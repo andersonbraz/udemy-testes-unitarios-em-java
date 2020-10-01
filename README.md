@@ -10,7 +10,7 @@ Minhas anotações pessoais e exercícios realizados por meio do treinamento de 
 Recomendo!
 
 
-## Guia de Progresso JUnit
+## Guia de Progresso Lições JUnit
 
 Folder             | Lesson     | Notes
 ------------------ | ---------- | --------------------
