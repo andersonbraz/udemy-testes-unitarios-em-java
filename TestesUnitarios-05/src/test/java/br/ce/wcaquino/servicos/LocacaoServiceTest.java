@@ -8,6 +8,7 @@ import static org.junit.Assert.assertThat;
 
 import java.util.Date;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 import br.ce.wcaquino.entidades.Filme;
