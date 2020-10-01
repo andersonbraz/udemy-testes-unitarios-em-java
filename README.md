@@ -16,7 +16,7 @@ TestesUnitarios-01 | 3. Testando sem Ferramenta |
 TestesUnitarios-02 | 4. JUnit | 
 TestesUnitarios-03 | 5. Organização dos arquivos de teste | 
 TestesUnitarios-04 | 6. Assertivas | 
-TestesUnitarios-05 | 7. AssertThat | 
+TestesUnitarios-05 | 7. AssertThat | AssertThat 
 TestesUnitarios-06 | 8. Formas de dividir um teste | 
 TestesUnitarios-07 | 9. Tratamento de exceções, parte 1 | 
 TestesUnitarios-08 | 10. Tratamento de exceções, parte 2 | 
